@@ -79,7 +79,7 @@ Multiple hyperparameter configurations were tested for ANN and DNN:
 
 ## 📈 Results Summary
 
-### 🔝 Best Model
+### 🟢 Best Model
 **DNN (units = 128, 64, 32)**
 - RMSE: **4.6882**
 - MAE: **3.7091**
