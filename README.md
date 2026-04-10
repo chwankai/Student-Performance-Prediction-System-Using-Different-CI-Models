@@ -119,6 +119,3 @@ Rules example:
 ### 1. Install dependencies
 ```bash
 pip install numpy pandas scikit-learn tensorflow scikit-fuzzy
-### 2. Run the script
-```bash
-python main.ipynb
